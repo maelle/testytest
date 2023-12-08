@@ -4,7 +4,7 @@
 \alias{say}
 \title{Say hi}
 \usage{
-say(name = "Maelle")
+say(name = "Andrea")
 }
 \arguments{
 \item{name}{the name to say hi to (character)}
